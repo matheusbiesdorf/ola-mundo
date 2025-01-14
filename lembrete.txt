@@ -5,3 +5,5 @@ SPA = Single page application
 Absolute imports (Criamos o jsconfig.json e definimos para src)
 
 Markdown
+
+useNavigate() ==> Lembrar do / e do -1
