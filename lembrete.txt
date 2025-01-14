@@ -3,3 +3,5 @@ React router dom
 SPA = Single page application
 
 Absolute imports (Criamos o jsconfig.json e definimos para src)
+
+Markdown
